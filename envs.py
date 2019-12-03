@@ -1,0 +1,2 @@
+kaynak = "şçöğüıŞÇÖĞÜİ"
+hedef = "scoguiSCOGUI"
